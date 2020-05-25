@@ -2,7 +2,7 @@
   "columns": [
     {
       "name": "referenceCitation",
-      "titles": "source",
+      "titles": "origin",
       "datatype": "string"
     },
     {
