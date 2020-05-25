@@ -1,0 +1,25 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/csvw",
+    {
+      "@language": "en"
+    }
+  ],
+  "rdfs:comment": [
+    "inspired by https://www.w3.org/TR/2015/REC-tabular-data-model-20151217/"
+  ],
+  "tables": [
+    {
+      "tableSchema": "schema.json",
+      "url": "https://raw.githubusercontent.com/viralemergence/virionette/master/03_interaction_data/virionette.csv",
+      "doi": "10.1101/2020.05.22.111344v1",
+      "dcterms:bibliographicCitation": "Daniel Becker, Gregory F Albery, Anna R Sjodin, Timothee Poisot, Tad Dallas, Evan A. Eskew, Maxwell J. Farrell, Sarah Guth, Barbara A Han, Nancy B Simmons, Colin J Carlson. 2020. Predicting wildlife hosts of betacoronaviruses for SARS-CoV-2 sampling prioritization. bioRxiv 2020.05.22.111344; doi: https://doi.org/10.1101/2020.05.22.111344", 
+      "interactionTypeId": "http://purl.obolibrary.org/obo/RO_0002453",
+      "interactionTypeName": "host of",
+      "headerRowCount": 1,
+      "null": [
+        ""
+      ]
+    }
+  ]
+}

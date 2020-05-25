@@ -1,0 +1,44 @@
+{
+  "columns": [
+    {
+      "name": "referenceCitation",
+      "titles": "source",
+      "datatype": "string"
+    },
+    {
+      "name": "sourceTaxonClass",
+      "titles": "host_class",
+      "datatype": "string"
+    },
+    {
+      "name": "sourceTaxonOrder",
+      "titles": "host_order",
+      "datatype": "string"
+    },
+    {
+      "name": "sourceTaxonFamily",
+      "titles": "host_family",
+      "datatype": "string"
+    },
+    {
+      "name": "sourceTaxonGenus",
+      "titles": "host_genus",
+      "datatype": "string"
+    },
+    {
+      "name": "sourceTaxonSpecies",
+      "titles": "host_species",
+      "datatype": "string"
+    },
+    {
+      "name": "targetTaxonFamily",
+      "titles": "virus_family",
+      "datatype": "string"
+    },
+    {
+      "name": "targetTaxonGenus",
+      "titles": "virus_genus",
+      "datatype": "string"
+    }
+  ]
+}
